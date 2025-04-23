@@ -32,8 +32,6 @@ isFraud – Target label: 0 = Not Fraud, 1 = Fraud
 🧠 Model Approach
 The model is built using popular ML algorithms such as:
 
-Logistic Regression
-
 Random Forest Classifier
 
 XGBoost
